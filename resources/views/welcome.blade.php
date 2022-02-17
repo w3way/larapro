@@ -26,7 +26,7 @@
             @endif
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
-                <h1>Hello World!</h1>
+                <h1>Hello World! Changed</h1>
             </div>
         </div>
     </body>
